@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "CarStore"
+  "defaultProject": "CarStore",
+  "cli":{
+    "analytics":false
+  }
 }
