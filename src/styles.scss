@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+ /* You can add global styles to this file, and also import other style files */
+
+body{
+  opacity: 0.95;
+}
+
+
+$background-color: #252525;
+$font-color: #fff !important;
+
+
+.p-card{
+  background-color: $background-color;
+  color: $font-color;
+  box-shadow: 0 0 1em rgb(150, 150, 150);
+}
